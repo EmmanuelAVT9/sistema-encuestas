@@ -1,0 +1,41 @@
+:root {
+  --pale-mint: #ecfdf5;
+  --light-mint: #d1fae4;
+  --mint: #a8f2cf;
+  --deep-mint: #6fe6b5;
+  --dark-mint: #2ecc90;
+  --teal-green: #12b77e;
+  --deep-teal-green: #069566;
+  --deep-teal-green: #057755;
+  --intense-teal-green: #075e45;
+  --dery-dark-teal-green: #074d3a;
+  --deep-forest-green: #022c21;
+  /*azules*/
+  --pale-turquoise: #f1fcfb;
+  --light-turquoise: #cff8f4;
+  --turquoise: #9ff0e9;
+  --Medium-Turquoise: #67e1dc;
+  --Deep-Turquoise: #38c9c8;
+  --Dark-Turquoise: #22c1c2;
+  --Teal-Blue: #16878b;
+  --Deep-Teal-Blue: #166c6f;
+  --Intense-Teal-Blue: #165559;
+  --Very-Dark-Teal-Blue: #17474a;
+  --Deep-Navy-Blue: #07292c;
+
+
+  --pale-pink: #E5D9F2;
+  --light-lavender: #2FCD89;
+  --soft-blue: #22C1C3;
+  --gentle-purple: #31CEC7;
+  --pastel-indigo: #344767;
+  --black: #000000;
+  --white: #ffffff;
+  --gray: #ccc;
+  --gray-circle-toogle: #F2F2F2;
+  --gray-circle-toogle-fondo: #9E9E9E;
+  --black-tras: #172B4D;
+  --font-family: 'Poppins', sans-serif;
+  --december-sky: #7f7d7d;
+  --red: #f94040;
+}
